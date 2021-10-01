@@ -1,0 +1,15 @@
+
+Note File References Intro length and Loop length of Music / Audio Tracks
+
+
+Music Tracks
+	Map - 1
+		Intro 0
+		Loop Length 135.534
+	Boss - Force 
+		Intro 15.007
+		Loop Length 67.504	
+	Boss - Force pt 2
+		Intro 3.720
+		Loop Length 37.478
+	

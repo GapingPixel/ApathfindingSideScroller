@@ -1,0 +1,1 @@
+uc_set_mode(CMODE.STATIC);

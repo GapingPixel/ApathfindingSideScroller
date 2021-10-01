@@ -1,0 +1,1 @@
+scr_basic_flight_collision(false);
